@@ -1,6 +1,10 @@
 # Making sure config.py doesn pass API keys
 config.py
 
+# For homework 6
+API_practice.ipynb
+random_numbers.ipynb
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
