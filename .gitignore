@@ -1,10 +1,17 @@
-# Making sure config.py doesn pass API keys
+'''python
+
+# Adding config.py file
 config.py
 api_keys.py
 
+<<<<<<< Updated upstream
 
 # For homework 6
 API_practice.ipynb
+=======
+API_practice.ipynb
+
+>>>>>>> Stashed changes
 random_numbers.ipynb
 
 # Byte-compiled / optimized / DLL files
